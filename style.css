@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Alte Haas Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alte Haas Grotesk'), local('Alte Haas Grotesk'), url(http://alte_haas_grotesk/AlteHaasGroteskBold.ttf) format('ttf');
+}
